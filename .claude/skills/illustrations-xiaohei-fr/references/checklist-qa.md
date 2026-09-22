@@ -3,7 +3,17 @@
 ## Points obligatoires
 
 - Format 16:9 horizontal.
-- Fond blanc propre.
+- Fond blanc propre, et **réellement `#FFFFFF`**. À vérifier, l'œil ne suffit pas :
+
+  ```bash
+  python3 -c "from PIL import Image; im=Image.open('image.png').convert('RGB'); print(im.getpixel((5,5)))"
+  ```
+
+  Si la valeur n'est pas `(255, 255, 255)`, normaliser plutôt que régénérer :
+
+  ```bash
+  magick image.png -fuzz 3% -fill white -opaque '#FEFEFE' image.png
+  ```
 - Xiaohei est présent.
 - Xiaohei porte l'action centrale, il n'est pas décoratif.
 - La composition n'est pas une reprise d'un ancien exemple : la métaphore est neuve, née de cet article.

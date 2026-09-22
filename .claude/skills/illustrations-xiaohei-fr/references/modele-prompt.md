@@ -38,7 +38,7 @@ Color use:
 Black for main line art and Xiaohei. Orange for the main flow, path and arrows. Red only for key warnings, problems or results. Blue only for secondary notes, feedback or system state.
 
 Constraints:
-One image explains one core structure only. Main subject covers 40%-60% of the canvas. At least 35% blank white space. At most 5 short handwritten French labels. No title in the top-left corner. Never write the structure type on the image. No Chinese characters or any CJK glyphs anywhere in the image. Not a formal diagram, not a course slide, not a dense explainer. Do not copy prior examples; invent a fresh visual metaphor for this specific article. Clear but not instructional, interesting but not childish, strange but clean.
+Background must be pure white #FFFFFF, not off-white, cream or light grey. One image explains one core structure only. Main subject covers 40%-60% of the canvas. At least 35% blank white space. At most 5 short handwritten French labels. No title in the top-left corner. Never write the structure type on the image. No Chinese characters or any CJK glyphs anywhere in the image. Not a formal diagram, not a course slide, not a dense explainer. Do not copy prior examples; invent a fresh visual metaphor for this specific article. Clear but not instructional, interesting but not childish, strange but clean.
 ```
 
 ## Édition d'une image existante

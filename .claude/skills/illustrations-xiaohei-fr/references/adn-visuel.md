@@ -9,7 +9,7 @@ Comme si quelqu'un qui fait de l'IA, du produit, du design et des outils depuis 
 ## Obligatoire
 
 - Format 16:9 horizontal, destiné au corps d'un article.
-- Fond blanc pur : pas de beige, pas de gris chaud, pas de texture papier, pas de dégradé, pas d'ombre, pas de grain, pas d'effet vieilli.
+- Fond blanc pur, littéralement `#FFFFFF` : pas de beige, pas de gris chaud, pas de texture papier, pas de dégradé, pas d'ombre, pas de grain, pas d'effet vieilli. Les modèles rendent volontiers un blanc cassé à `#FEFEFE`, invisible à l'écran mais visible sous forme de rectangle gris sur une page d'article blanche. Exiger `#FFFFFF` dans le prompt et vérifier après coup.
 - Trait noir dessiné à la main : ligne fine, légèrement tremblée, ni mécanique, ni vectorielle, ni contour épais.
 - Beaucoup de vide : le sujet occupe 40 % à 60 % de la surface, au moins 35 % de blanc, idéalement une zone calme d'un seul tenant.
 - Peu d'annotations manuscrites en français : 5 à 8 au maximum, chacune de 1 à 4 mots.
