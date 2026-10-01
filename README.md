@@ -9,6 +9,7 @@ Bibliothèque personnelle de skills Claude Code. Un dossier par skill, sous
 |---|---|---|
 | `illustrations-xiaohei-fr` | Illustrations d'article en français : 16:9, fond blanc, trait noir manuscrit, annotations rouge/orange/bleu, personnage Xiaohei | Adaptation française de `ian-xiaohei-illustrations` |
 | `ian-xiaohei-illustrations` | Même chose pour des articles en chinois | [helloianneo](https://github.com/helloianneo/ian-xiaohei-illustrations), MIT |
+| `ui-ux-pro-max` | Intelligence de design complète : base de 84 styles, 192 palettes, 74 couples typographiques, 98 règles UX, préréglages GSAP, règles par pile (Next.js, three.js…) et générateur de design system en ligne de commande. Version intégrale — la copie synchronisée au compte ne contient que la fiche, sans la base ni le script | [nextlevelbuilder](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill), MIT |
 | `awwwards-3d` | Sites 3D pilotés au défilement, dans le langage d'Active Theory, Lusion, 14islands. Pile verrouillée three.js + GSAP + Lenis, gabarits, anti-patrons | [tsogjavklann](https://github.com/tsogjavklann/awwwards-3d), MIT |
 | `threejs-webgl` | Scènes Three.js, matériaux, éclairage | [freshtechbro](https://github.com/freshtechbro/claudedesignskills), MIT |
 | `gsap-scrolltrigger` | Chorégraphie d'animations au défilement | idem |
